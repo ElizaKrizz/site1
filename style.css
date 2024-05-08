@@ -1,0 +1,21 @@
+body{
+   background-color: yellow;
+   color:red;
+}
+header, footer{
+   background-color: red;
+   color: white;
+}
+nav{
+    
+   margin: 10px 0px;
+
+}
+
+img{
+   width: 300px;
+   height: 300px;
+}
+h1{
+   text-align: center;
+}
